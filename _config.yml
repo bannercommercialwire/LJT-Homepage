@@ -13,8 +13,8 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic homepage"
-url                      : https://bannercommercialwire.github.io
-baseurl                  : "/LJT-Homepage"
+url                      :
+baseurl                  :
 repository               : "bannercommercialwire/LJT-Homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         :
-  bio              : "First-year PhD candidate at HKUST NLP Group."
-  location         : "Hong Kong"
-  employer         : "Hong Kong University of Science and Technology"
+  bio              :
+  location         :
+  employer         :
   uri              :
   email            : "jliugi@connect.ust.hk"
 
@@ -73,7 +73,7 @@ author:
   steam            :
   telegram         :
   tumblr           :
-  twitter          : "junteng88716710"
+  twitter          :
   vine             :
   weibo            :
   wikipedia        :
@@ -137,7 +137,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "junteng88716710"
+  username               :
 facebook:
   username               :
   app_id                 :
